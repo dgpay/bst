@@ -3,7 +3,7 @@
 }
 
 .jumbotron {
-    padding-top: 2rem;
+    padding-top: 6rem;
     background-color: #041725;
 }
 
@@ -13,4 +13,8 @@
 
 footer {
     background-color: #041725;
+}
+
+section {
+    padding-top: 5rem;
 }
